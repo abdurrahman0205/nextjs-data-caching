@@ -1,0 +1,114 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 59.99,
+      "category": "Audio",
+      "brand": "SoundMax",
+      "stock": 25,
+      "rating": 4.5,
+      "description": "Comfortable wireless headphones with clear sound, deep bass, and a long-lasting battery.",
+      "image": "https://example.com/images/headphones.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mechanical Keyboard",
+      "price": 79.99,
+      "category": "Computer Accessories",
+      "brand": "KeyPro",
+      "stock": 18,
+      "rating": 4.7,
+      "description": "A responsive mechanical keyboard with tactile switches, RGB lighting, and a durable design.",
+      "image": "https://example.com/images/keyboard.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Wireless Mouse",
+      "price": 29.99,
+      "category": "Computer Accessories",
+      "brand": "ClickTech",
+      "stock": 40,
+      "rating": 4.3,
+      "description": "Lightweight wireless mouse with precise tracking, ergonomic design, and reliable connectivity.",
+      "image": "https://example.com/images/mouse.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Smart Watch",
+      "price": 129.99,
+      "category": "Wearables",
+      "brand": "FitTime",
+      "stock": 15,
+      "rating": 4.6,
+      "description": "Smart watch with fitness tracking, heart rate monitoring, notifications, and a bright display.",
+      "image": "https://example.com/images/smartwatch.jpg"
+    },
+    {
+      "id": 5,
+      "name": "USB-C Fast Charger",
+      "price": 24.99,
+      "category": "Accessories",
+      "brand": "PowerHub",
+      "stock": 50,
+      "rating": 4.4,
+      "description": "Compact USB-C fast charger designed to quickly charge smartphones, tablets, and other compatible devices.",
+      "image": "https://example.com/images/charger.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Portable Bluetooth Speaker",
+      "price": 45.99,
+      "category": "Audio",
+      "brand": "BassBox",
+      "stock": 22,
+      "rating": 4.5,
+      "description": "Portable Bluetooth speaker delivering powerful audio with a compact body and long battery life.",
+      "image": "https://example.com/images/speaker.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Laptop Backpack",
+      "price": 39.99,
+      "category": "Bags",
+      "brand": "UrbanPack",
+      "stock": 30,
+      "rating": 4.2,
+      "description": "Spacious laptop backpack with padded compartments, multiple pockets, and comfortable shoulder straps.",
+      "image": "https://example.com/images/backpack.jpg"
+    },
+    {
+      "id": 8,
+      "name": "1080p Webcam",
+      "price": 49.99,
+      "category": "Computer Accessories",
+      "brand": "VisionCam",
+      "stock": 17,
+      "rating": 4.3,
+      "description": "Full HD webcam with a built-in microphone, automatic light adjustment, and smooth video quality.",
+      "image": "https://example.com/images/webcam.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Power Bank 20000mAh",
+      "price": 34.99,
+      "category": "Accessories",
+      "brand": "VoltPlus",
+      "stock": 35,
+      "rating": 4.6,
+      "description": "High-capacity 20000mAh power bank with multiple charging ports for powering devices on the go.",
+      "image": "https://example.com/images/powerbank.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Gaming Monitor 24-inch",
+      "price": 189.99,
+      "category": "Monitors",
+      "brand": "GameView",
+      "stock": 10,
+      "rating": 4.8,
+      "description": "24-inch gaming monitor with a high refresh rate, fast response time, and sharp Full HD resolution.",
+      "image": "https://example.com/images/monitor.jpg"
+    }
+  ]
+}
